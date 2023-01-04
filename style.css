@@ -212,7 +212,7 @@ button:hover {
 }
 button:active {
   transform: scale(1.2);
-  background: yellow;
+  background: red;
 }
 button:hover + a,
 a:hover {
